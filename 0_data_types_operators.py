@@ -9,3 +9,5 @@ print("Resultado multiplicación:", multiplicacion)
 #Mezcla
 mezcla = 'Hola' * 3 + ' mundo'
 print("Resultado mezcla:", mezcla)
+
+# Esto es una prueba
